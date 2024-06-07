@@ -1,0 +1,15 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    margin-left: 118px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.content i {
+    color: gold;
+}
